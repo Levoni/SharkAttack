@@ -1,0 +1,26 @@
+TODO:
+- balancing (upgrade prices, enemies abilitys/count/loot)
+- End game UI
+	- Fix UI placement
+	- Add congradulatory text
+- bosses (need images)
+- achievments
+- animate anything else I think I can
+
+Finished:
+- Add title to main page (done)
+- wave title at start of wave (done)
+- spelling/capitlization/spacing of powerup names' (done)
+- animate bomb (done)
+- have bomb not affect boss (done)
+- Add Bosses (done)
+	- 10: done - hammerhead with slam attack
+	- 20: done - squid shoots ink out
+	- 30: done - two hammerheads with slam attacks
+	- 40: done - squid on both sides that shoots ink out
+	- 50: done - hammerhead and a squid
+- fix full screen size
+- fix button text sizing and spelling
+- End game stuff
+	- Special weapon reward
+	- special skin

@@ -1,0 +1,22 @@
+[
+{
+"ItemDescription":"Instill the projectile(s) with a life stealing force.",
+"ImageReference":"LeechShot",
+"AbilityType":0,
+"ItemName":"Leech Shot",
+"BaseCooldown":5000,
+"BasePrice":1000,
+"CooldownReduction":250,
+"PriceIncrease":500
+},
+{
+"ItemDescription":"Keep your enemies away with an energy wave.",
+"ImageReference":"Shockwave",
+"AbilityType":1,
+"ItemName":"Shockwave",
+"BaseCooldown":5000,
+"BasePrice":500,
+"CooldownReduction":0,
+"PriceIncrease":250
+}
+]

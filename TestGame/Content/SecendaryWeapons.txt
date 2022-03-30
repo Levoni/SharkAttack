@@ -1,0 +1,29 @@
+[
+{
+"ItemDescription":"A Deadly explosive that kills everything except for the biggest of foes.",
+"ImageReference":"sprinkle-bomb-powerup",
+"TrinketType":0,
+"ItemName":"Bomb",
+"BasePrice":2000,
+"PriceIncrease":500,
+"Weight":1
+},
+{
+"ItemDescription":"A Decoy that enemies will be attracted to.",
+"ImageReference":"Decoy_powerup",
+"TrinketType":1,
+"ItemName":"Decoy",
+"BasePrice":2000,
+"PriceIncrease":500,
+"Weight":2
+},
+{
+"ItemDescription":"A Fountain where life giving water springs forth.",
+"ImageReference":"LifeFountainPowerup",
+"TrinketType":2,
+"ItemName":"Life Fountain",
+"BasePrice":2000,
+"PriceIncrease":500,
+"Weight":3
+}
+]

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfAchievmentModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AchievmentModel>
+    <Name>Survivor</Name>
+    <Description>Beat the game</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Starting A Arsenal</Name>
+    <Description>Bought second weapon</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Girls Best Friend</Name>
+    <Description>Bought First Trinket</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Training</Name>
+    <Description>Bought First Ability</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Master</Name>
+    <Description>Max out an upgrade</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Special Delivery</Name>
+    <Description>Buy an exclusive weapon</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>HammerHead slayer</Name>
+    <Description>Beat a hammerHead enemy</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Squid Slayer</Name>
+    <Description>Beat a squid enemy</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Slayer 1</Name>
+    <Description>Kill 100 enemies</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Slayer 2</Name>
+    <Description>Kill 1000 enemies</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Slayer 3</Name>
+    <Description>Kill 10000 enemies</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Trigger Happy 1</Name>
+    <Description>Shoot 100 bullets</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Trigger Happy 2</Name>
+    <Description>Shoot 1000 bullets</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Trigger Happy 3</Name>
+    <Description>Shoot 10000 bullets</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Trigger Happy 4</Name>
+    <Description>Shoot 100000 bullets</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Invincibility 1</Name>
+    <Description>Reach wave 6 without taking any damage</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Invincibility 2</Name>
+    <Description>Reach wave 16 without taking any damage</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Invincibility 3</Name>
+    <Description>Beat whole game without taking damage</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Medic 1</Name>
+    <Description>Heal 10 health</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Medic 2</Name>
+    <Description>Heal 100 Health</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Medic 3</Name>
+    <Description>Heal 1000 health</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Meat Shield 1</Name>
+    <Description>Take 10 damage</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Meat Shield 2</Name>
+    <Description>Take 100 damage</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+  <AchievmentModel>
+    <Name>Meat Shield 3</Name>
+    <Description>Take 1000 damage</Description>
+    <hasAchievement>false</hasAchievement>
+    <ImageReference>checkmark</ImageReference>
+  </AchievmentModel>
+</ArrayOfAchievmentModel>

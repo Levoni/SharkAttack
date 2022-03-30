@@ -1,0 +1,38 @@
+[
+{
+"ItemName":"Speed",
+"ItemDescription":"The speed that your character moves.",
+"ImageReference":"Speed-powerup",
+"BaseValue":300,
+"ValueIncrease":50,
+"BasePrice":100,
+"PriceIncrease":200
+},
+{
+"ItemName":"Acuraccy",
+"ItemDescription":"The percent of times your character fires in a strait line.",
+"ImageReference":"accuracy-powerup",
+"BaseValue":0.75,
+"ValueIncrease":0.05,
+"BasePrice":100,
+"PriceIncrease":200
+},
+{
+"ItemName":"Max Health",
+"ItemDescription":"The Maximum amount of health your character has.",
+"ImageReference":"health-powerup",
+"BaseValue":10,
+"ValueIncrease":1,
+"BasePrice":100,
+"PriceIncrease":200
+},
+{
+"ItemName":"Secenday Weapon Limit",
+"ItemDescription":"The weight your character can carry.",
+"ImageReference":"strength-powerup",
+"BaseValue":3,
+"ValueIncrease":0.5,
+"BasePrice":100,
+"PriceIncrease":200
+}
+]

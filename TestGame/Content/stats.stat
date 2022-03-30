@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfPlayerStatModel xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PlayerStatModel>
+    <StatName>Shots</StatName>
+    <StatValue>0</StatValue>
+  </PlayerStatModel>
+  <PlayerStatModel>
+    <StatName>Kills</StatName>
+    <StatValue>0</StatValue>
+  </PlayerStatModel>
+  <PlayerStatModel>
+    <StatName>Heath Healed</StatName>
+    <StatValue>0</StatValue>
+  </PlayerStatModel>
+  <PlayerStatModel>
+    <StatName>Max Wave Taking No Damage</StatName>
+    <StatValue>0</StatValue>
+  </PlayerStatModel>
+  <PlayerStatModel>
+    <StatName>Damage Taken</StatName>
+    <StatValue>0</StatValue>
+  </PlayerStatModel>
+</ArrayOfPlayerStatModel>

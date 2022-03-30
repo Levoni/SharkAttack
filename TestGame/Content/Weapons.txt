@@ -1,0 +1,57 @@
+[
+{
+"ItemDescription":"Your Trusty Pistol. Fires as fast as you can pull the trigger, but doesn't pack too much of a punch.",
+"ImageReference":"pistol-powerup",
+"GunType":0,
+"ItemName":"Pistol",
+"BaseDamage":2,
+"BasePrice":0,
+"DamageIncrease":1,
+"PriceIncrease":100,
+"CooldownAmount":0
+},
+{
+"ItemDescription":"The fastest way to poor lead into your enemies.",
+"ImageReference":"machine-gun",
+"GunType":3,
+"ItemName":"Machine Gun",
+"BaseDamage":1,
+"BasePrice":200,
+"DamageIncrease":0.5,
+"PriceIncrease":200,
+"CooldownAmount":50
+},
+{
+"ItemDescription":"For when you don't want to get up close and personal.",
+"ImageReference":"sniper-powerup",
+"GunType":2,
+"ItemName":"Sniper",
+"BaseDamage":10,
+"BasePrice":400,
+"DamageIncrease":5,
+"PriceIncrease":400,
+"CooldownAmount":300
+},
+{
+"ItemDescription":"The best tool for making meat mush. Five projectiles in each shot",
+"ImageReference":"shotgun-powerup",
+"GunType":1,
+"ItemName":"Shotgun",
+"BaseDamage":1,
+"BasePrice":400,
+"DamageIncrease":1,
+"PriceIncrease":400,
+"CooldownAmount":750
+},
+{
+"ItemDescription":"Shoot projectiles in every direction.",
+"ImageReference":"blast_shot",
+"GunType":4,
+"ItemName":"Blast Gun",
+"BaseDamage":1,
+"BasePrice":2000,
+"DamageIncrease":1,
+"PriceIncrease":500,
+"CooldownAmount":500
+}
+]
