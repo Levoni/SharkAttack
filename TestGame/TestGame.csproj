@@ -135,7 +135,7 @@
   <ItemGroup>
     <Reference Include="Base, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Base\Base\bin\DesktopGL\AnyCPU\Debug\Base.dll</HintPath>
+      <HintPath>..\libs\Base.dll</HintPath>
     </Reference>
     <Reference Include="MonoGame.Framework">
       <HintPath>$(MonoGameInstallDirectory)\MonoGame\v3.0\Assemblies\DesktopGL\MonoGame.Framework.dll</HintPath>
@@ -211,12 +211,6 @@
     <None Include="Tiled\tilemaps\Battle Room2test.tmx">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\Base\Base\Engine.csproj">
-      <Project>{75ac1b78-6145-421c-a0b1-552b4502002b}</Project>
-      <Name>Engine</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
